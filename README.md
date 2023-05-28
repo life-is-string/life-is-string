@@ -1,9 +1,9 @@
-###🇧🇷 Sobre Mim:
+### 🇧🇷 Sobre Mim:
 - 📚 Estudante do 2° ano de Informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET), Campus Contagem.
 - ⚡ Tenho interesse em back-end (desenvolvimento de jogos e software), front-end (design de assets e GUI) e até em um pouco de hardware (Processadores).
 - 💡 Atualmente aprendendo c++ (incluindo SFML) e mySql, mas não deixo de explorar html, css e javascript, além de expandir meu conhecimento em C.
 -----
-###🇨🇦 About Me:
+### 🇨🇦 About Me:
 - 📚 Junior student in Federal Center for Technological Education of Minas Gerais (CEFET-MG), coursing Informatics.
 - ⚡ I'm mostly interessed in back-end area (software and game developing), front-end (GUI and assets design), and even in some hardware (CPU).
 - 💡 Currently learning c++ (also SFML) and mySql, but I'm exploring sometimes html, css and javascript, besides expanding my C knowledge.
