@@ -1,12 +1,14 @@
 ### 🇧🇷 Sobre Mim:
 - 📚 Estudante do 3° ano de Informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET), Campus Contagem.
-- ⚡ Tenho interesse em back-end (desenvolvimento de algoritmos e software), front-end (design de assets, GUI e talvez sites) e até em um pouco de hardware (Processadores).
-- 💡 Atualmente aprendendo Java e Python.
+- 💡 Aprendendo Java e Python.
+- ⚡ Tenho interesse em backend, fullstack, engenharia de hardware, mineração de dados e gerência de projetos. Admiro muito combinações interdisciplinares (bioinformática, computação-quântica, astroinformática).
+- 📱 Atualmente trabalhando em uma tecnologia assistiva de código-aberto para deficientes visuais com reconhecimento espacial/visual por IA e integração com microcontroladores e sensores (https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos).
 -----
 ### 🇨🇦 About Me:
-- 📚 Senior student in Federal Center for Technological Education of Minas Gerais (CEFET-MG), coursing Informatics.
-- ⚡ I'm mostly interessed in back-end area (software and game developing), front-end (GUI and assets design, perhaps sites), and even in some hardware (CPU).
+- 📚 Informatics senior student in Federal Center for Technological Education of Minas Gerais (CEFET-MG), Contagem Campus.
 - 💡 Currently learning Java and Python.
+- ⚡ I'm interested in backend, fullstack, hardware engineering, data mining and project management. I enjoy a lot interdisciplinary combinations (bioinformatics, quantum computing, astroinformatics).
+- 📱 WIP: Opensource assistive technology for the visually impaired with spatial/visual recognition by AI and integration with microcontrollers and sensors (https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos)
 -----
 ### Linguagens (Languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraise-renard&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraise-renard&theme=merko)
