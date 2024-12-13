@@ -11,7 +11,7 @@
 - 📱 WIP: Opensource assistive technology for the visually impaired with spatial/visual recognition by AI and integration with microcontrollers and sensors (https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos)
 -----
 ### Linguagens (Languages)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraise-renard&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraise-renard&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraise-renard&theme=merko) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraise-renard&show_icons=true&theme=merko) 
 
   
 
