@@ -1,8 +1,8 @@
+
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpingnebulas&layout=compact&theme=chartreuse-dark&hide_border=true&hide=portugol) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpingnebulas&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&hide=issues&) 
-  
+
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpingnebulas&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jumpingnebulas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/>
 </div>
 <h2 align=center>Linguagens</h2>
 <div align="center">
