@@ -3,11 +3,11 @@
 </div>
 <br>
 <img min-width="100px" max-width="250px" width="250px" align="right" src="https://quotes-github-readme.vercel.app/api?quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet&type=vertical&author=Stephen%20Hawking&theme=chartreuse-dark"/>
-<p align=left>Hi, I'm <strong>Mel</strong>!<br><br>📘 Undergraduate IT technician at CEFET-MG<br>📚 I'm currently doing a bachelor's degree in Computer Science at UFMG<br>🪐 I'm also a enthusiast for Computational Astrophysics<br>💡 Ready to learn something new everyday<br>💻 Currently working at:
+<p align=left>Hi, I'm <strong>Mel</strong>!<br><br>📘 Undergraduate IT technician at CEFET-MG<br>📚 I'm currently doing a bachelor's degree in Computer Science at UFMG<br>🪐 I'm also a enthusiast for Computational Astrophysics<br>💡 Ready to learn something new everyday<br><br>💻 Currently working at:
 <ul>
-  <li>CPUs article</li>
-  <li>Astrophysics simulation software</li>
-  <li>My portfolio site</li>
+  <li>📃 CPUs article</li>
+  <li>☄ Astrophysics simulation software</li>
+  <li>🚀 My portfolio site</li>
 </ul>
 📌 Checkout my starred repos:
 <ul>
