@@ -44,7 +44,7 @@
 <h2 align=center>Currently learning</h2>
 <div align="center">
   
-  ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+  ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge)
   ![Allegro Library](https://img.shields.io/badge/Allegro-FF5A00?logo=allegro&logoColor=fff&style=for-the-badge)
   
 </div>
