@@ -44,9 +44,8 @@
 <h2 align=center>Currently learning</h2>
 <div align="center">
   
-  ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+  ![Allegro Library](https://img.shields.io/badge/Allegro-FF5A00?logo=allegro&logoColor=fff&style=for-the-badge)
   
 </div>
 
