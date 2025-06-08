@@ -1,13 +1,21 @@
 <div align=center>
-<img src= "https://ioppublishing.org/wp-content/uploads/2020/09/NASA-banner-1800x622-1.jpg"/>
+<img src= "images/combinestudios.png"/>
 </div>
 <br>
 <img min-width="100px" max-width="250px" width="250px" align="right" src="https://quotes-github-readme.vercel.app/api?quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet&type=vertical&author=Stephen%20Hawking&theme=chartreuse-dark"/>
-<p align=left>Hi, I'm <strong>Mel</strong>!<br><br>📘 Undergraduate IT technician at CEFET-MG<br>📚 I'm currently doing a bachelor's degree in Computer Science at UFMG<br>🚀 Aspiring software developer <br>💡 Ready to learn something new everyday<br><br>💻 Currently working at:
+<p align=left>Hi, I'm <strong>@combinedev</strong>!</p>
 <ul>
-  ... trying to not commit suicide.
+<li>📘 Undergraduate IT technician at CEFET-MG</li>
+<li>📚 Ongoing bachelor's degree in Computer Science at UFMG</li>
+<li>🚀 Aspiring software developer and ML engineer</li>
 </ul>
-📌 Checkout my starred repos:
+<hr>
+<h3>💻 WIPs:</h3>
+<ul>
+  <li><a href = "https://github.com/combinedev/UFMG_space_invaders_allegro">👾 Allegro lib game in C</li>
+</ul>
+    <hr>
+<h3>⭐ Checkout my starred repos:</h3>
 <ul>
   <li><a href = "https://github.com/combinedev/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
   <li><a href = "https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos" >👓 Object detection technology with ESP32-CAM + Android + Clarifai + Ultrassonic Sensor</a></li>
