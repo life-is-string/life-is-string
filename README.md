@@ -9,18 +9,18 @@
 </ul>
 📌 Checkout my starred repos:
 <ul>
-  <li><a href = "https://github.com/jumpingnebulas/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
+  <li><a href = "https://github.com/combinedev/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
   <li><a href = "https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos" >👓 Object detection technology with ESP32-CAM + Android + Clarifai + Ultrassonic Sensor</a></li>
 </ul>
 </p><br>
 
 <div align = center>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpingnebulas&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=jumpingnebulas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
-  <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/jumpingnebulas/jumpingnebulas/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combinedev&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=combinedev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
+  <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/combinedev/combinedev/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
   
   <picture>
-    <source width = "700em" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumpingnebulas/jumpingnebulas/output/github-contribution-grid-snake-dark.svg">
-    <img width = "700em" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jumpingnebulas/jumpingnebulas/output/github-contribution-grid-snake.svg">
+    <source width = "700em" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/combinedev/combinedev/output/github-contribution-grid-snake-dark.svg">
+    <img width = "700em" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/combinedev/combinedev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
