@@ -12,7 +12,7 @@
 <hr>
 <h3>💻 WIPs:</h3>
 <ul>
-  <li><a href = "https://github.com/combinedev/UFMG_space_invaders_allegro">👾 Allegro lib game in C</li>
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1af355ea-fc11-4e9f-83ed-154b06672e3b" />
 </ul>
     <hr>
 <h3>⭐ Checkout my starred repos:</h3>
