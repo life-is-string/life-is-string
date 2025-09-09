@@ -3,7 +3,7 @@
 </div>
 <br>
 <img min-width="100px" max-width="250px" width="250px" align="right" src="https://quotes-github-readme.vercel.app/api?quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet&type=vertical&author=Stephen%20Hawking&theme=chartreuse-dark"/>
-<p align=left>Hi, I'm <strong>@combinedev</strong>!</p>
+<p align=left>Hi, I'm <strong>@life-is-string</strong>!</p>
 <ul>
 <li>📘 Undergraduate IT technician at CEFET-MG</li>
 <li>📚 Ongoing bachelor's degree in Computer Science at UFMG</li>
