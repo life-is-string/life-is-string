@@ -9,12 +9,10 @@
 <li>📚 Ongoing bachelor's degree in Computer Science at UFMG</li>
 <li>🚀 Aspiring software developer and ML engineer</li>
 </ul>
-<hr>
 <h3>💻 WIPs:</h3>
 <ul>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1af355ea-fc11-4e9f-83ed-154b06672e3b" />
+  <li>📦 POC Online Order and Cart API Fullstack System with React and Node.js</li>
 </ul>
-    <hr>
 <h3>⭐ Checkout my starred repos:</h3>
 <ul>
   <li><a href = "https://github.com/life-is-string/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
@@ -22,7 +20,6 @@
 </ul>
 </p><br>
 
-<div align = center>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-is-string&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=life-is-string&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
   <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/life-is-string/life-is-string/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
   
@@ -32,26 +29,32 @@
   </picture>
 </div>
 
-<h2 align=center>Languages</h2>
+<h2 align=center>Languages and Frameworks</h2>
 <div align="center">
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  
 </div>
 
 
 <h2 align=center>My environments</h2>
+
 <div align="center">
-  
-  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-48B9C7?style=for-the-badge&logo=linux&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
+
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
+
 
 
 
