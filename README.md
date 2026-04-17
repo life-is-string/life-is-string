@@ -19,10 +19,11 @@
   <li><a href = "https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos" >👓 Object detection technology with ESP32-CAM + Android + Clarifai + Ultrassonic Sensor</a></li>
   <li><a href = "https://github.com/life-is-string/POC-simple-online-order-system" >📦 POC Online Order and Cart API Fullstack System with React and Node.js</a></li>
 </ul>
-<h3>👾 Games I developed</h3>
+<h3>🕹️ Game projects</h3>
 <ul>
   <li><a href = "https://github.com/life-is-string/TP3-3bim-Uraken" >🥷 Uraken - Ninja Platformer game with physics</a></li>
   <li><a href="https://github.com/life-is-string/TP-2bim-Atari-Combat-Starstruck">👽 Starstruck! - Atari game reboot</a></li>
+  <li><a href="https://github.com/life-is-string/UFMG_space_invaders_allegro/blob/main/README.md">👾 Space invaders reboot with C and Allegro.lib</a></li>
 </ul>
 </p><br>
 
