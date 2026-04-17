@@ -26,14 +26,16 @@
 </ul>
 </p><br>
 
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-is-string&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=life-is-string&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
-  <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/life-is-string/life-is-string/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
+<div align="center">
+   <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/life-is-string/life-is-string/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
   
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-is-string&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=life-is-string&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
   <picture>
     <source width = "700em" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/life-is-string/life-is-string/output/github-contribution-grid-snake-dark.svg">
     <img width = "700em" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/life-is-string/life-is-string/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 <h2 align=center>Languages and Frameworks</h2>
 <div align="center">
@@ -41,7 +43,6 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
