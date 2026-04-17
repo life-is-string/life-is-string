@@ -10,9 +10,7 @@
 <li>🚀 Aspiring software developer and ML engineer</li>
 </ul>
 <h3>💻 WIPs:</h3>
-<ul>
-  <li></li>
-</ul>
+<img width="150" height="137" alt="sweep-sweeper" src="https://github.com/user-attachments/assets/b57ad7ea-e83a-463f-914a-4fa11da4bd95" />
 <h3>⭐ Checkout my starred repos:</h3>
 <ul>
   <li><a href = "https://github.com/life-is-string/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
