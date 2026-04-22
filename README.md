@@ -28,7 +28,9 @@
 <div align="center">
    <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/life-is-string/life-is-string/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
   
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-is-string&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&hide=portugol"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=life-is-string&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&hide=issues"/><br><br>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-is-string&layout=compact&langs_count=7&theme=chartreuse-dark&hide=portugol"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=life-is-string&&theme=chartreuse-dark&show_icons=true"/>
+  
   <picture>
     <source width = "700em" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/life-is-string/life-is-string/output/github-contribution-grid-snake-dark.svg">
     <img width = "700em" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/life-is-string/life-is-string/output/github-contribution-grid-snake.svg">
