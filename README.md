@@ -10,14 +10,17 @@
 <li>🚀 Aspiring software developer and ML engineer</li>
 </ul>
 <h3>💻 WIPs:</h3>
-<img width="150" height="137" alt="sweep-sweeper" src="https://github.com/user-attachments/assets/b57ad7ea-e83a-463f-914a-4fa11da4bd95" />
+<!-- <img width="150" height="137" alt="sweep-sweeper" src="https://github.com/user-attachments/assets/b57ad7ea-e83a-463f-914a-4fa11da4bd95" /> -->
+<ul>
+  <li>⚔️ Netcritters - C++ Pokémon-Style Turn-based RPG </li>
+</ul>
 <h3>⭐ Checkout my starred repos:</h3>
 <ul>
   <li><a href = "https://github.com/life-is-string/Excel-sheet-data-mining-with-Python">⛏ Excel sheet data mining with Python</a></li>
   <li><a href = "https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos" >👓 Object detection technology with ESP32-CAM + Android + Clarifai + Ultrassonic Sensor</a></li>
   <li><a href = "https://github.com/life-is-string/POC-simple-online-order-system" >📦 POC Online Order and Cart API Fullstack System with React and Node.js</a></li>
 </ul>
-<h3>🕹️ Game projects</h3>
+<h3>🕹️ Games </h3>
 <ul>
   <li><a href = "https://github.com/life-is-string/TP3-3bim-Uraken" >🥷 Uraken - Ninja Platformer game with physics</a></li>
   <li><a href="https://github.com/life-is-string/TP-2bim-Atari-Combat-Starstruck">👽 Starstruck! - Atari game reboot</a></li>
