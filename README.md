@@ -7,12 +7,14 @@
 <ul>
 <li>📘 Undergraduate IT technician at CEFET-MG</li>
 <li>📚 Ongoing bachelor's degree in Computer Science at UFMG</li>
-<li>🚀 Aspiring software developer and ML engineer</li>
+<li>🪐 Aspiring indie game developer and Computational astrophysicist</li>
 </ul>
-<h3>💻 WIPs:</h3>
-<!-- <img width="150" height="137" alt="sweep-sweeper" src="https://github.com/user-attachments/assets/b57ad7ea-e83a-463f-914a-4fa11da4bd95" /> -->
+<h3>🕹️ Games </h3>
 <ul>
-  <li>⚔️ Netcritters - C++ Pokémon-Style Turn-based RPG </li>
+  <li><a href = "https://github.com/life-is-string/Netcritters"> [NEW!] ⚔️ Netcritters - C++ Pokémon-Style Turn-based RPG </li>
+  <li><a href = "https://github.com/life-is-string/TP3-3bim-Uraken" >🥷 Uraken - Ninja Platformer game with physics</a></li>
+  <li><a href="https://github.com/life-is-string/TP-2bim-Atari-Combat-Starstruck">👽 Starstruck! - Atari game reboot</a></li>
+  <li><a href="https://github.com/life-is-string/UFMG_space_invaders_allegro/blob/main/README.md">👾 Space invaders reboot with C and Allegro.lib</a></li>
 </ul>
 <h3>⭐ Checkout my starred repos:</h3>
 <ul>
@@ -20,14 +22,11 @@
   <li><a href = "https://github.com/LoiraDoTchan/TCC--Tecnologia-assistiva-para-cegos" >👓 Object detection technology with ESP32-CAM + Android + Clarifai + Ultrassonic Sensor</a></li>
   <li><a href = "https://github.com/life-is-string/POC-simple-online-order-system" >📦 POC Online Order and Cart API Fullstack System with React and Node.js</a></li>
 </ul>
-<h3>🕹️ Games </h3>
-<ul>
-  <li><a href = "https://github.com/life-is-string/TP3-3bim-Uraken" >🥷 Uraken - Ninja Platformer game with physics</a></li>
-  <li><a href="https://github.com/life-is-string/TP-2bim-Atari-Combat-Starstruck">👽 Starstruck! - Atari game reboot</a></li>
-  <li><a href="https://github.com/life-is-string/UFMG_space_invaders_allegro/blob/main/README.md">👾 Space invaders reboot with C and Allegro.lib</a></li>
-</ul>
 </p><br>
-
+<hr>
+<h3>💻 WIPs:</h3>
+<img width="150" height="137" alt="sweep-sweeper" src="https://github.com/user-attachments/assets/b57ad7ea-e83a-463f-914a-4fa11da4bd95" />
+<hr>
 <div align="center">
    <img width="150em" min-widht="150em" max-width= "150em" src="https://raw.githubusercontent.com/life-is-string/life-is-string/main/images/jessie.jpg"/><p><em>In memoriam of <strong>Jessie</strong><br>Wherever you are, I hope you are proud of me...</em></p>
   
