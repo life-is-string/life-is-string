@@ -13,7 +13,7 @@
 <ul>
 <li>📘 Undergraduate IT technician at CEFET-MG</li>
 <li>📚 Ongoing bachelor's degree in Computer Science at UFMG</li>
-<li>🪐 Aspiring indie game developer and Computational Astrophysicist</li>
+<li>🪐 Aspiring indie game developer and Bioinformatician</li>
 </ul>
 
 <h3>🕹️ Games</h3>
